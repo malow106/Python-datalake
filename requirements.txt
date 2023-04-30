@@ -1,0 +1,5 @@
+pandas
+tqdm
+pathlib
+beautifulsoup4
+hashlib
