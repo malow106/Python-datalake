@@ -126,7 +126,7 @@ Le projet est sensé représenter la structure interne d'un Datalake et contenir
 - Clonez ce projet
   
 ```sh
-git clone
+git clone https://github.com/malow106/Python-datalake
 ```
 
 - Allez dans le dossier cloné :
